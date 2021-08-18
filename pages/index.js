@@ -1,14 +1,14 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import Construction from '../components/Construction';
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
+    <div className="h-screen w-full bg-indigo-100">
       <Head>
         <title>Elite Cricket</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="bg-red-400">Helllooo Worlllllld....</h1>
-      
+      <Construction />
     </div>
   )
 }

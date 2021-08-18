@@ -13,7 +13,7 @@ function Construction() {
                     width="75"
                 />
             </div>
-            <h1 className="text-blue-600 tracking-widest font-bold">Elite <span className="text-red-800">Cricket</span></h1>
+            <h1 className="text-blue-600 text-xl tracking-widest font-bold">Elite <span className="text-red-800">Cricket</span></h1>
                 {/** H1 */}
                 <p className=" text-3xl md:text-6xl uppercase font-bold text-white py-6">we're launching soon </p>
                 {/** Content */}

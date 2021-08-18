@@ -6,7 +6,7 @@ export default function Home() {
     <div className="h-screen w-full bg-red-400">
       <Head>
         <title>Elite Cricket</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
       <Construction />
     </div>
